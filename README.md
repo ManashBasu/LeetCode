@@ -23,6 +23,7 @@ My LeetCode solutions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ManashBasu/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/ManashBasu/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/ManashBasu/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ My LeetCode solutions
 | [0018-4sum](https://github.com/ManashBasu/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/ManashBasu/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +74,5 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ManashBasu/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/ManashBasu/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->
