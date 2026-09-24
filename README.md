@@ -9,6 +9,7 @@ My LeetCode solutions
 | [0001-two-sum](https://github.com/ManashBasu/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/ManashBasu/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0018-4sum](https://github.com/ManashBasu/LeetCode/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ManashBasu/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Math
@@ -32,6 +33,7 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/ManashBasu/LeetCode/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
