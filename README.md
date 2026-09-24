@@ -27,6 +27,7 @@ My LeetCode solutions
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/ManashBasu/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/ManashBasu/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/ManashBasu/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +58,12 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/ManashBasu/LeetCode/tree/main/0100-same-tree/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ManashBasu/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ManashBasu/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
