@@ -11,6 +11,7 @@ My LeetCode solutions
 | [0018-4sum](https://github.com/ManashBasu/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ManashBasu/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ManashBasu/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -24,6 +25,7 @@ My LeetCode solutions
 | [0001-two-sum](https://github.com/ManashBasu/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/ManashBasu/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManashBasu/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ManashBasu/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +34,7 @@ My LeetCode solutions
 | [0014-longest-common-prefix](https://github.com/ManashBasu/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/ManashBasu/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/ManashBasu/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ManashBasu/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
