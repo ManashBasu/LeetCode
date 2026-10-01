@@ -13,6 +13,7 @@ My LeetCode solutions
 | [0088-merge-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0463-island-perimeter](https://github.com/ManashBasu/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ManashBasu/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0704-binary-search](https://github.com/ManashBasu/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ManashBasu/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ManashBasu/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Math
@@ -113,4 +114,8 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/ManashBasu/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/ManashBasu/LeetCode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
