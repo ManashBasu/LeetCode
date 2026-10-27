@@ -10,6 +10,7 @@ My LeetCode solutions
 | [0014-longest-common-prefix](https://github.com/ManashBasu/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0018-4sum](https://github.com/ManashBasu/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/ManashBasu/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0463-island-perimeter](https://github.com/ManashBasu/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ManashBasu/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -47,6 +48,7 @@ My LeetCode solutions
 | [0018-4sum](https://github.com/ManashBasu/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ManashBasu/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/ManashBasu/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ManashBasu/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/ManashBasu/LeetCode/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
