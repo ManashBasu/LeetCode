@@ -11,6 +11,7 @@ My LeetCode solutions
 | [0018-4sum](https://github.com/ManashBasu/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ManashBasu/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/ManashBasu/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0463-island-perimeter](https://github.com/ManashBasu/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ManashBasu/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -132,6 +133,7 @@ My LeetCode solutions
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/ManashBasu/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/ManashBasu/LeetCode/tree/main/0704-binary-search/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
