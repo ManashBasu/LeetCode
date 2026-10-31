@@ -14,6 +14,7 @@ My LeetCode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ManashBasu/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/ManashBasu/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ManashBasu/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0463-island-perimeter](https://github.com/ManashBasu/LeetCode/tree/main/0463-island-perimeter/) | Easy |
@@ -142,6 +143,7 @@ My LeetCode solutions
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ManashBasu/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/ManashBasu/LeetCode/tree/main/0704-binary-search/) | Easy |
 ## Simulation
