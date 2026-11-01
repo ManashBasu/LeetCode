@@ -18,6 +18,7 @@ My LeetCode solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ManashBasu/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ManashBasu/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0463-island-perimeter](https://github.com/ManashBasu/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ManashBasu/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/ManashBasu/LeetCode/tree/main/0682-baseball-game/) | Easy |
@@ -125,6 +126,7 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ManashBasu/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ManashBasu/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
