@@ -39,6 +39,7 @@ My LeetCode solutions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ManashBasu/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/ManashBasu/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/ManashBasu/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManashBasu/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ManashBasu/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ManashBasu/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -69,6 +70,7 @@ My LeetCode solutions
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ManashBasu/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/ManashBasu/LeetCode/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/ManashBasu/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/ManashBasu/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManashBasu/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/ManashBasu/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -121,6 +123,7 @@ My LeetCode solutions
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ManashBasu/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/ManashBasu/LeetCode/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/ManashBasu/LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/ManashBasu/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/ManashBasu/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManashBasu/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ManashBasu/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
@@ -179,4 +182,8 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ManashBasu/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/ManashBasu/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
