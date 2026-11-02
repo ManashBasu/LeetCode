@@ -18,6 +18,7 @@ My LeetCode solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ManashBasu/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/ManashBasu/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/ManashBasu/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManashBasu/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0463-island-perimeter](https://github.com/ManashBasu/LeetCode/tree/main/0463-island-perimeter/) | Easy |
@@ -31,6 +32,7 @@ My LeetCode solutions
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/ManashBasu/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/ManashBasu/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/ManashBasu/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ManashBasu/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
