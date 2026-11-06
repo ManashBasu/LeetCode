@@ -25,6 +25,7 @@ My LeetCode solutions
 | [0496-next-greater-element-i](https://github.com/ManashBasu/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/ManashBasu/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/ManashBasu/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [0739-daily-temperatures](https://github.com/ManashBasu/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ManashBasu/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ManashBasu/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ManashBasu/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -115,6 +116,7 @@ My LeetCode solutions
 | [0143-reorder-list](https://github.com/ManashBasu/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ManashBasu/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/ManashBasu/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/ManashBasu/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +154,7 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/ManashBasu/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/ManashBasu/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
