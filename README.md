@@ -25,6 +25,7 @@ My LeetCode solutions
 | [0463-island-perimeter](https://github.com/ManashBasu/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ManashBasu/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/ManashBasu/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0661-image-smoother](https://github.com/ManashBasu/LeetCode/tree/main/0661-image-smoother/) | Easy |
 | [0682-baseball-game](https://github.com/ManashBasu/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/ManashBasu/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/ManashBasu/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
@@ -163,6 +164,7 @@ My LeetCode solutions
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/ManashBasu/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/ManashBasu/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0661-image-smoother](https://github.com/ManashBasu/LeetCode/tree/main/0661-image-smoother/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
