@@ -40,6 +40,7 @@ My LeetCode solutions
 | [0066-plus-one](https://github.com/ManashBasu/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ManashBasu/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ManashBasu/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ManashBasu/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +198,7 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ManashBasu/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ManashBasu/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
